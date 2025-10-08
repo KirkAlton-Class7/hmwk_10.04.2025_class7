@@ -1,4 +1,4 @@
-# Lab Title: Creating a Custom VPC
+# Creating a Custom VPC
 **Date:** 10-24-2025  
 **Class:** Class. 7 AWS 
 
