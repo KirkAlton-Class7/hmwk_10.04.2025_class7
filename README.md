@@ -3,7 +3,7 @@
 ## Overview
 This week's homework covers Binary, networking basics, and network architecture (VPC).
 
-- **Date:** 09-23-2025
+- **Date:** 10-07-2025
 - **Author:** [Kirk Alton](https://github.com/KirkAlton-Class7)
 ---
 
