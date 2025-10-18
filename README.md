@@ -12,3 +12,4 @@ This week's homework covers Binary, networking basics, and network architecture 
 - ✅ [VPC Lab and Notes](./Lab_Notes_10.04.2025.md)
 - ✅ [Maarek SAA Udemy - Section 27 Quiz](./images/maarek_saa_section_27.png)
 - ✅ [Binary Game High Score](./images/binary_game.png)
+- ✅ [Be A Man 4.1](./bam_4.1_class7.md)
