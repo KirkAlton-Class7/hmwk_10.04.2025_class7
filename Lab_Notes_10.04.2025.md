@@ -1,5 +1,5 @@
 # Creating a Custom VPC: Welcome to Epstein Island 🏝️👯‍♀️
-**Date:** 10-24-2025  
+**Date:** 10-04-2025  
 **Class:** Class. 7 AWS 
 
 ---
